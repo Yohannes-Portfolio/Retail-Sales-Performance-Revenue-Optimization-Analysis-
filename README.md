@@ -42,12 +42,12 @@ The Excel Workbook used to clean and analyse this data including a cleaning Log 
 The coffee shops transaction database as seen below consists of a single table with detailed point-of-sale records, containing a total of **149,116** transaction records across six months (January-June 2023).
 
 <p align="center">
-  <img width="291" height="389" alt="image" src="https://github.com/user-attachments/assets/d6dd1634-e069-45a1-9ffb-08e6c4ba88b5" />
+  <img width="427" height="574" alt="image" src="https://github.com/user-attachments/assets/652239c8-80f2-4cc6-959a-941a470aa762" />
 </p>
 
 Before analysis was begun data cleaning operations involved the elimination of duplicate transactions and date/range time validation to ensure consistency in the data.
 <p align="center">
-  <img width="1708" height="109" alt="image" src="https://github.com/user-attachments/assets/3003dd72-fb6c-4802-8aad-e4ecbaae28ed" />
+  <img width="1708" height="106" alt="image" src="https://github.com/user-attachments/assets/58158169-aea1-4570-8450-16a651f6c42d" />
 </p>
 
 ## Executive Overview
@@ -57,7 +57,7 @@ Analysis of the first half of 2023 transaction data reveals three critical patte
 Below is the overview for sales for the tableau dashboard, more visuals are given and explained throughout the report. The interactive dashboard can be found [here.](https://public.tableau.com/views/CoffeeSales_17624595519230/CoffeeShopSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <p align="center">
-  <img width="1519" height="800" alt="image" src="https://github.com/user-attachments/assets/dc033bf5-5f2a-4dbf-8ce0-db1f1f15a5c4" />
+  <img width="1514" height="804" alt="image" src="https://github.com/user-attachments/assets/afaae270-e5fb-4e7e-8499-35f84e292293" />
 </p>
 
 ## Deep Dive Insights
@@ -77,7 +77,7 @@ Below is the overview for sales for the tableau dashboard, more visuals are give
 - **Evening hours from 6 p.m. to 8 p.m. are dead time with minimal activity, together accounting for less than 10% of daily revenues.** The hour of 8 p.m. contributes a mere 0.42% of overall daily revenue, with hourly values as low as £0.34K, while being the lightest cells on the heatmap across all days. Such a critical drop shows that the business is operating in a period of very low demand from customers, keeping operation capacity while bringing negligible return.
 
 <p align="center">
-  <img width="844" height="666" alt="image" src="https://github.com/user-attachments/assets/a860d608-a1e6-4424-a1c6-b920f14a7041" />
+  <img width="793" height="652" alt="image" src="https://github.com/user-attachments/assets/55fdc9c7-7e7f-4b02-9a50-8c32d8084c39" />
 </p>
 
 ## Cyclical Revenue Pattern: End-of-Month Decline
@@ -89,7 +89,7 @@ Below is the overview for sales for the tableau dashboard, more visuals are give
 - **Over the period of six months, this cyclical pattern remained in place, suggesting that it is real and deeply ingrained into customer financial behavior**, rather than business operations. This creates predictable low-revenue periods from the 26th to 29th of each month.
 
 <p align="center">
-  <img width="1283" height="712" alt="image" src="https://github.com/user-attachments/assets/ecdf2d5d-03e1-4e8a-8d13-2725adbb5af4" />
+  <img width="1235" height="680" alt="image" src="https://github.com/user-attachments/assets/d5823db2-4803-450f-8279-a0b21026b867" />
 </p>
 
 ### Extreme Product Concentration and Transaction Value Variation
@@ -101,7 +101,7 @@ Below is the overview for sales for the tableau dashboard, more visuals are give
 - **This revenue concentration pattern remained stable over the six-month growth period, despite 106% transaction volume increase**. The relative positions of the top products did not change, nor did their revenue share, which suggests that new customers have similar product preferences to existing customers. The same 12 to 15 products accounted for 90% of revenue in each of the six months.
 
 <p align="center">
-  <img width="1285" height="688" alt="image" src="https://github.com/user-attachments/assets/46b29fd9-67e0-4c04-8959-a78fc108c54e" />
+   <img width="1242" height="628" alt="image" src="https://github.com/user-attachments/assets/7d38c67d-cb7c-4f79-ab1c-38c5340982a1" />
 </p>
 
 ## Recommendations
