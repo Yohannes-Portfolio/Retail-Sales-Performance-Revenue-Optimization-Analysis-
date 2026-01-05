@@ -1,4 +1,4 @@
-# Revenue Growth Performance & Optimization Strategy
+# Retail Sales Performance & Revenue Optimization Analysis
 
 ## Table of Contents
 
